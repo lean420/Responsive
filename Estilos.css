@@ -1,0 +1,14 @@
+.Rojo{
+    background-color: red;
+    max-width: 50%;
+    height: 20%;
+}
+.Azul{
+    background-color: aquamarine;
+}
+.Dorado{
+    background-color: gold;
+}
+.container{
+    display: flex;
+}
